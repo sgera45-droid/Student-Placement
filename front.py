@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-from streamlit_option_menu import option_menu
 import joblib
 
 st.title(":green[Model1] :streamlit:")
